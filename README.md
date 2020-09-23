@@ -1,0 +1,3 @@
+# BE-project
+SENTIMENTAL ANALYZER USING MACHINE LEARNING ALGORITHMS
+Run index.html file for the final UI.
